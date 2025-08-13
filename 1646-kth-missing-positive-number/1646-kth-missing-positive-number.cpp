@@ -14,7 +14,7 @@ public:
                 high=mid-1;
             }
         }
-        return high+k +1;    
+        return high+k + 1;    
         // ans= arr[high]+more  , more=k-missing, missing=arr[high]-(high+1)
 
         // ans=arr[high]+k-arr[high]+high+1
