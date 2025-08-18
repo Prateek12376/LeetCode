@@ -4,8 +4,8 @@ public:
         if(s.size() != t.size()){
             return false;
         }
-        unordered_map<char,int>map1;
-        unordered_map<char,int>map2;
+        unordered_map<char,char>map1;
+        unordered_map<char,char>map2;
         for(int i=0;i<s.size();i++){
             char s1 = s[i];
             char t1 = t[i];
