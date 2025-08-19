@@ -12,7 +12,7 @@ public:
         
         int ans=0;
         for(int i=0;i<s.size();i++){
-            if(i==s.size()){
+            if(i==s.size()-1){
                 ans+=map1[s[i]];
             }
             else if(map1[s[i]]>=map1[s[i+1]]){
