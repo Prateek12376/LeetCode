@@ -2,8 +2,12 @@ class Solution {
 public:
     int divide(int dividend, int divisor) {
         int sn1=1;
+        if (dividend == INT_MIN && divisor == -1) {
+            return INT_MAX;
+        }
         long long a=dividend;
         long long b=divisor;
+
         if (dividend<0){
             a=-a;
             sn1*=-1;
@@ -23,7 +27,7 @@ public:
             return INT_MAX;
         }
         else{
-            return ans;
+            return (int)ans;
         }
     }
 };
