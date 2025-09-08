@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prateek12376/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Prateek12376/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prateek12376/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Prateek12376/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/Prateek12376/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
