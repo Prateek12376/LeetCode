@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Prateek12376/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prateek12376/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Prateek12376/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Prateek12376/LeetCode/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Prateek12376/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Prateek12376/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateek12376/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -538,4 +539,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Prateek12376/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Prateek12376/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
