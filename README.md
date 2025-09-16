@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prateek12376/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Prateek12376/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/Prateek12376/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Prateek12376/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/Prateek12376/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Array
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Prateek12376/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/Prateek12376/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prateek12376/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Prateek12376/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateek12376/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prateek12376/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/Prateek12376/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Prateek12376/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -546,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Prateek12376/LeetCode/tree/master/0278-first-bad-version) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Prateek12376/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
