@@ -1,7 +1,7 @@
 class Solution {
 public:
     void find_comb(int oBracket, int cBracket, int count_bracket, string& s, vector<string>& ans){
-        if(oBracket==cBracket && (oBracket+cBracket)==2*count_bracket){
+        if(s.size()==2*count_bracket){
             ans.push_back(s);
             return;
         }
