@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Prateek12376/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Prateek12376/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateek12376/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Prateek12376/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Prateek12376/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Prateek12376/LeetCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Prateek12376/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prateek12376/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Prateek12376/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0407-trapping-rain-water-ii](https://github.com/Prateek12376/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Prateek12376/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Prateek12376/LeetCode/tree/master/0948-sort-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Prateek12376/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Prateek12376/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Prateek12376/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prateek12376/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Prateek12376/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Prateek12376/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [3797-design-spreadsheet](https://github.com/Prateek12376/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Binary Indexed Tree
@@ -674,4 +677,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prateek12376/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Prateek12376/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Prateek12376/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
