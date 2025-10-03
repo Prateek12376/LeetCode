@@ -21,14 +21,12 @@ public:
             }
         }
 
-        int min_bound=0;
 
         while(!pq.empty()){
             int currHeight=pq.top().first;
             int r=pq.top().second.first;
             int c=pq.top().second.second;
             pq.pop();
-            min_bound= max(currHeight,min_bound);
 
             vector<pair<int,int>>directions={{0,1},{0,-1},{-1,0},{1,0}};
 
@@ -36,10 +34,10 @@ public:
                 int rr= r+dr;
                 int cc=c+dc;
                 if(rr>=0 && rr<row && cc>=0 && cc<col && !visited[rr][cc]){
-                    pq.push({heightMap[rr][cc],{rr,cc}});
+                    pq.push({max(heightMap[rr][cc],currHeight),{rr,cc}});
                     visited[rr][cc]=true;
-                    if(heightMap[rr][cc]<min_bound){
-                        Twater+= min_bound - heightMap[rr][cc];
+                    if(heightMap[rr][cc]<currHeight){
+                        Twater+= currHeight - heightMap[rr][cc];
                     }
                 }
             }
