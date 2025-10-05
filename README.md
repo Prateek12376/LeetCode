@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Prateek12376/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Prateek12376/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Prateek12376/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Prateek12376/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prateek12376/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prateek12376/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prateek12376/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Prateek12376/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Prateek12376/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prateek12376/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Prateek12376/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Prateek12376/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prateek12376/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Prateek12376/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateek12376/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Prateek12376/LeetCode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Prateek12376/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Prateek12376/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Prateek12376/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Prateek12376/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Prateek12376/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Prateek12376/LeetCode/tree/master/0079-word-search) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -666,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Prateek12376/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Prateek12376/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Prateek12376/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Prateek12376/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Prateek12376/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Prateek12376/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Prateek12376/LeetCode/tree/master/0216-combination-sum-iii) |
