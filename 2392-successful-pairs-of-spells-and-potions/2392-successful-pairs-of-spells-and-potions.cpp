@@ -22,7 +22,7 @@ public:
                 }
             }
             if(index!=-1){
-                ans[i]= p-low+1;
+                ans[i]= p-index+1;
             }
         }
         return ans;
