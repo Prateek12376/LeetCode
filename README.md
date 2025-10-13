@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Prateek12376/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Prateek12376/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Prateek12376/LeetCode/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/Prateek12376/LeetCode/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/Prateek12376/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Prateek12376/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0830-largest-triangle-area](https://github.com/Prateek12376/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Prateek12376/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Prateek12376/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Prateek12376/LeetCode/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Prateek12376/LeetCode/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/Prateek12376/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prateek12376/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Prateek12376/LeetCode/tree/master/0392-is-subsequence) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Prateek12376/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Prateek12376/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Prateek12376/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Prateek12376/LeetCode/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Prateek12376/LeetCode/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prateek12376/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
