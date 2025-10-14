@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Prateek12376/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prateek12376/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Prateek12376/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Prateek12376/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Prateek12376/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Prateek12376/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
