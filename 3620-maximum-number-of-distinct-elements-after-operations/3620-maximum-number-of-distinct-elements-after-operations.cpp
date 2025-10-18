@@ -5,12 +5,12 @@ public:
         long long prev= LLONG_MIN;
         int count=0;
         for(int i=0;i<nums.size();i++){
-            long long low= (1LL)*nums[i]-k;
-            long long high=1LL*nums[i]+k;
-            long long assigned = max(prev+1,low);
-            if(assigned<=high){
+            long long lower= (1LL)*nums[i]-k;
+            long long upper=1LL*nums[i]+k;
+            long long given = max(prev+1,lower);
+            if(given<=upper){
                 count++;
-                prev=assigned;
+                prev=given;
             }
         }
         return count;
