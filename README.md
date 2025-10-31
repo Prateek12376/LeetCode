@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Prateek12376/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Prateek12376/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prateek12376/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Prateek12376/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prateek12376/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2047-find-a-peak-element-ii](https://github.com/Prateek12376/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Prateek12376/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek12376/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Prateek12376/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Prateek12376/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Prateek12376/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Prateek12376/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Prateek12376/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Prateek12376/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Prateek12376/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/Prateek12376/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Prateek12376/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Prateek12376/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/Prateek12376/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Prateek12376/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Prateek12376/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Prateek12376/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek12376/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prateek12376/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Prateek12376/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Prateek12376/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Prateek12376/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Prateek12376/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -572,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Prateek12376/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1612-avoid-flood-in-the-city](https://github.com/Prateek12376/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Prateek12376/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Prateek12376/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Prateek12376/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Prateek12376/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Prateek12376/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -680,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek12376/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prateek12376/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prateek12376/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Prateek12376/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Prateek12376/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Prateek12376/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## String Matching
