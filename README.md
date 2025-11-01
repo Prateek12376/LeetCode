@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Prateek12376/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Prateek12376/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Prateek12376/LeetCode/tree/master/0414-third-maximum-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prateek12376/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Prateek12376/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Prateek12376/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Prateek12376/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Prateek12376/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prateek12376/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/Prateek12376/LeetCode/tree/master/0355-design-twitter) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prateek12376/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prateek12376/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Prateek12376/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Prateek12376/LeetCode/tree/master/0460-lfu-cache) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Prateek12376/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Prateek12376/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prateek12376/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prateek12376/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prateek12376/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Prateek12376/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Prateek12376/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Prateek12376/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Prateek12376/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prateek12376/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Linked List
 |  |
 | ------- |
