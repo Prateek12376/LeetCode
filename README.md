@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Prateek12376/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/Prateek12376/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Prateek12376/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Prateek12376/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prateek12376/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Prateek12376/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prateek12376/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prateek12376/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prateek12376/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prateek12376/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Prateek12376/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prateek12376/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Prateek12376/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Prateek12376/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Prateek12376/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Prateek12376/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prateek12376/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Prateek12376/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Linked List
 |  |
 | ------- |
