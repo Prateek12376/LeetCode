@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Prateek12376/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/Prateek12376/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Prateek12376/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Prateek12376/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Prateek12376/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Prateek12376/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prateek12376/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prateek12376/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prateek12376/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prateek12376/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Prateek12376/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Prateek12376/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1873-longest-nice-substring](https://github.com/Prateek12376/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prateek12376/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
