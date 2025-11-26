@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Prateek12376/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Prateek12376/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Prateek12376/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Prateek12376/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Prateek12376/LeetCode/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Prateek12376/LeetCode/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/Prateek12376/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prateek12376/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Prateek12376/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Prateek12376/LeetCode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Prateek12376/LeetCode/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Prateek12376/LeetCode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prateek12376/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -942,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Prateek12376/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Prateek12376/LeetCode/tree/master/0258-add-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Prateek12376/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Prateek12376/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Prateek12376/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
