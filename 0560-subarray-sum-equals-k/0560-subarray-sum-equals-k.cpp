@@ -10,7 +10,7 @@ public:
             int rem=sum-k;
             if(preSumMap.find(rem)!=preSumMap.end()){
                 count=count+preSumMap[rem];
-            }
+            }   
             preSumMap[sum]++;  
         }
         return count;
