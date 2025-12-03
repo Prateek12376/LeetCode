@@ -1,7 +1,7 @@
 class Solution {
 public:
     int arrangeCoins(int n) {
-        int low=0;
+        int low=1;
         int high=n;
 
         while(low<=high){
