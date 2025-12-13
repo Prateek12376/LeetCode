@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Prateek12376/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Prateek12376/LeetCode/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Prateek12376/LeetCode/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/Prateek12376/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Prateek12376/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Prateek12376/LeetCode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Prateek12376/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -954,11 +955,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Prateek12376/LeetCode/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Prateek12376/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Prateek12376/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Prateek12376/LeetCode/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Prateek12376/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Interactive
 |  |
