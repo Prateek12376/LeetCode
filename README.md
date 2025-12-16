@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Prateek12376/LeetCode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Prateek12376/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0830-largest-triangle-area](https://github.com/Prateek12376/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0989-add-to-array-form-of-integer](https://github.com/Prateek12376/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Prateek12376/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Prateek12376/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek12376/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Prateek12376/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Prateek12376/LeetCode/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prateek12376/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0989-add-to-array-form-of-integer](https://github.com/Prateek12376/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1006-vowel-spellchecker](https://github.com/Prateek12376/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Prateek12376/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Prateek12376/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
