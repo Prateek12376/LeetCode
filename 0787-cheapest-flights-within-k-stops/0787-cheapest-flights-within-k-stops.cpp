@@ -10,7 +10,7 @@ public:
         }
         vector<int>dist(n,INT_MAX);
         priority_queue<vector<int>,vector<vector<int>>,greater<vector<int>>>pq;
-        pq.push({0,src,0});  // {stop,node,dist};
+        pq.push({0,src,0});  
         dist[src]=0;
 
         while(!pq.empty()){
@@ -27,7 +27,7 @@ public:
                 int adjC  = s.second;
                 if(cost+adjC<dist[adjNode] && stops<=k){
                     dist[adjNode]=cost+adjC;
-                    pq.push({stops+1,adjNode,dist[adjNode],});
+                    pq.push({stops+1,adjNode,dist[adjNode]});
                 } 
             }
         }
