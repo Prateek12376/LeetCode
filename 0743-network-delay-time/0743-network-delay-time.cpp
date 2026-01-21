@@ -10,12 +10,12 @@ public:
             time[src].push_back({dst,tt});
         }
 
-        queue<pair<int,int>>pq;
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
         pq.push({0,k});
         dist[k]=0;
 
         while(!pq.empty()){
-            auto it = pq.front();
+            auto it = pq.top();
             pq.pop();
             int timeT= it.first;
             int node = it.second;
