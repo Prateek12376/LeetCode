@@ -25,6 +25,9 @@ public:
                 pq.pop();
                 int cost= it.first;
                 int node =it.second;
+                if(cost>dist[node]){
+                    continue;
+                }
                 for(auto it: adj[node]){
                     int adjN=it.first;
                     int adjC=it.second;
