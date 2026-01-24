@@ -38,7 +38,7 @@ public:
                 }
             }
             for(int i=0;i<n;i++){
-                if(dist[i]!=INT_MAX && dist[i]<=distanceThreshold && dist[i]!=0){
+                if(dist[i]<=distanceThreshold && i!=src){
                     count++;
                 }
             }
