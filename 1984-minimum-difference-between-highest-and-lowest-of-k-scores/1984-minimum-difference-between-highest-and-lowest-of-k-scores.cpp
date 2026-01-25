@@ -7,7 +7,7 @@ public:
         }
         sort(nums.begin(),nums.end());
         int ans=nums[k-1]-nums[0];
-        for(int i=0;i+k<=n;i++){
+        for(int i=1;i+k<=n;i++){
             ans=min(ans,nums[i+k-1]-nums[i]);
         }
         return ans;
