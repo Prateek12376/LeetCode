@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Prateek12376/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Prateek12376/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Prateek12376/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Prateek12376/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prateek12376/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prateek12376/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Prateek12376/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Prateek12376/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2429-design-a-food-rating-system](https://github.com/Prateek12376/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Prateek12376/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Prateek12376/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Prateek12376/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Prateek12376/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Prateek12376/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1244,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prateek12376/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prateek12376/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Prateek12376/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Prateek12376/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1251,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prateek12376/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prateek12376/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Prateek12376/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Prateek12376/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Biconnected Component
 |  |
 | ------- |
