@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Prateek12376/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Prateek12376/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Prateek12376/LeetCode/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Prateek12376/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Prateek12376/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/Prateek12376/LeetCode/tree/master/0792-binary-search) |
 | [0827-making-a-large-island](https://github.com/Prateek12376/LeetCode/tree/master/0827-making-a-large-island) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Prateek12376/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Prateek12376/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Prateek12376/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Prateek12376/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Prateek12376/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/Prateek12376/LeetCode/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Prateek12376/LeetCode/tree/master/0875-koko-eating-bananas) |
