@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Prateek12376/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Prateek12376/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Prateek12376/LeetCode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Prateek12376/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Prateek12376/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prateek12376/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Prateek12376/LeetCode/tree/master/0069-sqrtx) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Prateek12376/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Prateek12376/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Prateek12376/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Prateek12376/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Prateek12376/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Prateek12376/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Prateek12376/LeetCode/tree/master/0118-pascals-triangle) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Prateek12376/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prateek12376/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Prateek12376/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Prateek12376/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
