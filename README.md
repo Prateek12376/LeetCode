@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Prateek12376/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Prateek12376/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Prateek12376/LeetCode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Prateek12376/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Prateek12376/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Prateek12376/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prateek12376/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Prateek12376/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Prateek12376/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Prateek12376/LeetCode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Prateek12376/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Prateek12376/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Prateek12376/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prateek12376/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
