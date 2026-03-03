@@ -660,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Prateek12376/LeetCode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Prateek12376/LeetCode/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Prateek12376/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Prateek12376/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Prateek12376/LeetCode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Prateek12376/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prateek12376/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Prateek12376/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Prateek12376/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Prateek12376/LeetCode/tree/master/2050-count-good-numbers) |
 ## Greedy
 |  |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek12376/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Prateek12376/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prateek12376/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Prateek12376/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prateek12376/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateek12376/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1873-longest-nice-substring](https://github.com/Prateek12376/LeetCode/tree/master/1873-longest-nice-substring) |
