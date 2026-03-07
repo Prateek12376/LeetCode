@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Prateek12376/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Prateek12376/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prateek12376/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Prateek12376/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Prateek12376/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Simulation
 |  |
@@ -840,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Prateek12376/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Prateek12376/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1873-longest-nice-substring](https://github.com/Prateek12376/LeetCode/tree/master/1873-longest-nice-substring) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Prateek12376/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Prateek12376/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prateek12376/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Prateek12376/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -905,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prateek12376/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prateek12376/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1873-longest-nice-substring](https://github.com/Prateek12376/LeetCode/tree/master/1873-longest-nice-substring) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Prateek12376/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Prateek12376/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prateek12376/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Prateek12376/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
