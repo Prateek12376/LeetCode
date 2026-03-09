@@ -16,6 +16,42 @@ public:
         
     }
     int findTargetSumWays(vector<int>& nums, int target) {
-        return find_ways(0,nums,target,0);
+        int n=nums.size();
+        int total=0;
+        for(int i=0;i<n;i++){
+            total+=nums[i];
+        }
+        if(target>total){
+            return 0;
+        }
+        if((total-target)%2!=0){
+            return 0;
+        }
+        int nT= (total-target)/2;
+
+        vector<vector<int>>dpp(n,vector<int>(nT+1,0));
+
+        if(nums[0]==0){
+            dpp[0][0]=2;
+        }
+        else{
+            dpp[0][0]=1;
+        }
+        if(nums[0]<=nT && nums[0]!=0){
+            dpp[0][nums[0]]=1;
+        }
+
+        for(int i=1;i<n;i++){
+            for(int sum=0;sum<=nT;sum++){
+                int not_pick = dpp[i-1][sum];
+                int pick =0;
+                if(nums[i]<=sum){
+                    pick = dpp[i-1][sum-nums[i]];
+                }
+                dpp[i][sum]=pick+not_pick;
+            }
+        }
+        return dpp[n-1][nT];
+
     }
 };
