@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Prateek12376/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/Prateek12376/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Prateek12376/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prateek12376/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prateek12376/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/Prateek12376/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Prateek12376/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -845,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Prateek12376/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Prateek12376/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Prateek12376/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prateek12376/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek12376/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Prateek12376/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prateek12376/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
