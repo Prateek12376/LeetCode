@@ -1,7 +1,6 @@
 class Solution {
 public:
     pair<long long ,long long> find_maxP(int i,int j,vector<vector<int>>& grid,vector<vector<pair<long long,long long>>>& dpp){
-        int mod=1e9+7;
         if(i==0 && j==0){
             return {grid[i][j],grid[i][j]};
         }
