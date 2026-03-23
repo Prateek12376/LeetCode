@@ -12,16 +12,16 @@ public:
         long long maxV  = LLONG_MIN;
         long long minV= LLONG_MAX;
         if(i>0){
-            auto[leftMax, leftMin]=find_maxP(i-1,j,grid,dpp);
-            maxV= max(maxV,max(grid[i][j]*leftMax,grid[i][j]*leftMin));
-            minV= min(minV,min(grid[i][j]*leftMax,grid[i][j]*leftMin));
+            auto it=find_maxP(i-1,j,grid,dpp);
+            maxV= max(maxV,max(grid[i][j]*it.first,grid[i][j]*it.second));
+            minV= min(minV,min(grid[i][j]*it.first,grid[i][j]*it.second));
         }
 
         // up
         if(j>0){
-            auto[upMax,upMin]= find_maxP(i,j-1,grid,dpp);
-            maxV=max(maxV,max(grid[i][j]*upMax,grid[i][j]*upMin));
-            minV=min(minV,min(grid[i][j]*upMax,grid[i][j]*upMin));
+            auto it = find_maxP(i,j-1,grid,dpp);
+            maxV=max(maxV,max(grid[i][j]*it.first,grid[i][j]*it.second));
+            minV=min(minV,min(grid[i][j]*it.first,grid[i][j]*it.second));
 
         }
         return dpp[i][j]={maxV,minV};
