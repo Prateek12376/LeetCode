@@ -29,6 +29,7 @@ public:
                 else if(j>0){
                     p1=Lgrid[i][j-1];
                 }
+                // right portion
                 int p2=1;
                 if(j==m-1 && i<n-1){
                     p2=Rgrid[i+1][0];
