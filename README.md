@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prateek12376/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1463-cherry-pickup-ii](https://github.com/Prateek12376/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prateek12376/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Prateek12376/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Prateek12376/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-design-browser-history](https://github.com/Prateek12376/LeetCode/tree/master/1582-design-browser-history) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Prateek12376/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek12376/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Prateek12376/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Prateek12376/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Prateek12376/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Prateek12376/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1829-maximum-units-on-a-truck](https://github.com/Prateek12376/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prateek12376/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prateek12376/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prateek12376/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/Prateek12376/LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Prateek12376/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Prateek12376/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Prateek12376/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prateek12376/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
