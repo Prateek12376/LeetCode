@@ -18,10 +18,10 @@ public:
         for(int i=n-1;i>=0;i--){
             int minC = INT_MAX;
             for(int j=i;j<n;j++){
-            if(isPalindrome(i,j,s)){
-                int cuts =1+ dpp[j+1];
-                minC = min(minC,cuts);
-            }
+                if(isPalindrome(i,j,s)){
+                    int cuts =1+ dpp[j+1];
+                    minC = min(minC,cuts);
+                }
             }
             dpp[i]=minC;
         }
