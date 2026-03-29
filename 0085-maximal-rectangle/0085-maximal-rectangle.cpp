@@ -1,14 +1,16 @@
 class Solution {
 public:
-    int largestRectangleArea_by_pSum_row(vector<int>& arr){
-        int n=arr.size();
+    int largest_sumA(vector<int>& height){
+        int n=height.size();
         stack<int>st;
-        int maxArea=0;
+        int maxA=0;
+
+        // we have to find nse and pse 
         for(int i=0;i<n;i++){
-            while(!st.empty() && arr[st.top()]>arr[i]){
-                int elmI=st.top();
+            while(!st.empty() && height[i]<height[st.top()]){
+                int elmI = st.top();
                 st.pop();
-                int nse=i;
+                int nse=i; 
                 int pse;
                 if(!st.empty()){
                     pse=st.top();
@@ -16,14 +18,14 @@ public:
                 else{
                     pse=-1;
                 }
-                maxArea=max((arr[elmI]*(nse-pse-1)),maxArea);
+                maxA= max(maxA,height[elmI]*(nse-pse-1));
             }
             st.push(i);
         }
         while(!st.empty()){
+            int nse=n;
             int elmI=st.top();
             st.pop();
-            int nse=n;
             int pse;
             if(!st.empty()){
                 pse=st.top();
@@ -31,35 +33,33 @@ public:
             else{
                 pse=-1;
             }
-            maxArea=max((arr[elmI]*(nse-pse-1)),maxArea);
+            maxA= max(maxA,height[elmI]*(nse-pse-1));
         }
-        return maxArea;
+        return maxA;
     }
     int maximalRectangle(vector<vector<char>>& matrix) {
         int n=matrix.size();
         int m=matrix[0].size();
-        int maxArea=0;
-        vector<vector<int>>pSum(n,vector<int>(m,0));
-        // build the pSum array
+        vector<vector<int>>preSumH(n,vector<int>(m,0));
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(matrix[i][j]=='1'){
                     if(i==0){
-                        pSum[i][j]=1;
+                        preSumH[i][j]=1;
                     }
                     else{
-                        pSum[i][j]=pSum[i-1][j]+1;
+                        preSumH[i][j]=preSumH[i-1][j]+ 1;
                     }
                 }
                 else{
-                    pSum[i][j]=0;
+                    preSumH[i][j]=0;
                 }
             }
         }
+        int maxiS=INT_MIN;
         for(int i=0;i<n;i++){
-            int rowArea= largestRectangleArea_by_pSum_row(pSum[i]);
-            maxArea= max(maxArea,rowArea);
+            maxiS= max(maxiS,largest_sumA(preSumH[i]));
         }
-        return maxArea;
+        return maxiS;
     }
 };
