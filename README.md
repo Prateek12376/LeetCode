@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Prateek12376/LeetCode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Prateek12376/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Prateek12376/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0738-monotone-increasing-digits](https://github.com/Prateek12376/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0830-largest-triangle-area](https://github.com/Prateek12376/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0878-nth-magical-number](https://github.com/Prateek12376/LeetCode/tree/master/0878-nth-magical-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Prateek12376/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prateek12376/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/Prateek12376/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prateek12376/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0738-monotone-increasing-digits](https://github.com/Prateek12376/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0876-hand-of-straights](https://github.com/Prateek12376/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Prateek12376/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Prateek12376/LeetCode/tree/master/1018-largest-perimeter-triangle) |
