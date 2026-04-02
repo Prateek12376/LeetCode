@@ -12,7 +12,6 @@ public:
         if(dpp[i][j][count]!=INT_MIN){
             return dpp[i][j][count];
         }
-        int maxi=INT_MIN;
         int mU=INT_MIN;;
         int mL=INT_MIN;
         if(coins[i][j]>=0){
