@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Prateek12376/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Prateek12376/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Prateek12376/LeetCode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Prateek12376/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Prateek12376/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Prateek12376/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Prateek12376/LeetCode/tree/master/0060-permutation-sequence) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Prateek12376/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Prateek12376/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Prateek12376/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Prateek12376/LeetCode/tree/master/0258-add-digits) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Prateek12376/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Prateek12376/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateek12376/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Prateek12376/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Prateek12376/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Prateek12376/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Prateek12376/LeetCode/tree/master/0067-add-binary) |
