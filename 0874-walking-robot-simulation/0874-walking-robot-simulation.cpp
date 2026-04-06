@@ -9,8 +9,7 @@ public:
         int y=0;
         int maxi=0;
         int dir=0;
-        vector<int> dx = {0,1,0,-1};
-        vector<int> dy = {1,0,-1,0};
+        vector<pair<int,int>> d = {{0,1},{1,0},{0,-1},{-1,0}};
         for(int i=0;i<commands.size();i++){
             if(commands[i]==-1){
                 dir= (dir+1)%4;  // right turn
@@ -20,8 +19,8 @@ public:
             }
             else{
                 for(int dist=1;dist<=commands[i];dist++){
-                    int nx= x+dx[dir];
-                    int ny= y+dy[dir];
+                    int nx= x+d[dir].first;
+                    int ny= y+d[dir].second;
 
                     if(st.count({nx,ny})){
                         break;
