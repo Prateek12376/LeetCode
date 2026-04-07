@@ -13,7 +13,7 @@ public:
     }
     
     void step(int num) {
-        int perimeter = 2*(n+m)-4;
+        int perimeter = 2*(n-1+m-1);
         num=num%perimeter;
          if(num == 0){
             num = perimeter;
