@@ -3,7 +3,6 @@ public:
     vector<int> advantageCount(vector<int>& nums1, vector<int>& nums2) {
         int n=nums1.size();
         vector<int>ans(n);
-        vector<int>vis(n,0);
         vector<pair<int,int>>arr;
         sort(nums1.begin(),nums1.end());
         for(int i=0;i<n;i++){
