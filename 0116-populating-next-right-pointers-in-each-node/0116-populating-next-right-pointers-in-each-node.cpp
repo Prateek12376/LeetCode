@@ -35,6 +35,7 @@ public:
                 }
                 else{
                     node->next=nextN;
+                    node=node->next;
                 }
                 if(nextN->left!=NULL){
                     q.push(nextN->left);
@@ -42,8 +43,6 @@ public:
                 if(nextN->right!=NULL){
                     q.push(nextN->right);
                 }
-                node->next=nextN;
-                node=node->next;
             }
             node->next=NULL;
         }
