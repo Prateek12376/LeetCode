@@ -19,8 +19,8 @@ public:
             q.pop();
             st.erase(it);
             auto &v = mpp[dest];
-            auto ind = lower_bound(v.begin(), v.end(), time);
-            v.erase(ind);
+            int ind = lower_bound(v.begin(), v.end(), time)-v.begin();
+            v.erase(v.begin()+ind);
 
 
         }
@@ -38,8 +38,8 @@ public:
         int dest = it.second.first;
         int time = it.first;
         auto &v = mpp[dest];
-        auto ind  = lower_bound(v.begin(),v.end(),time);
-        v.erase(ind);
+        int ind  = lower_bound(v.begin(),v.end(),time)-v.begin();
+        v.erase(v.begin()+ind);
         st.erase(it);
         q.pop();
         vector<int>ans;
