@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Prateek12376/LeetCode/tree/master/0948-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/Prateek12376/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prateek12376/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Prateek12376/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0989-add-to-array-form-of-integer](https://github.com/Prateek12376/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1001-grid-illumination](https://github.com/Prateek12376/LeetCode/tree/master/1001-grid-illumination) |
 | [1006-vowel-spellchecker](https://github.com/Prateek12376/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Prateek12376/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prateek12376/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prateek12376/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Prateek12376/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1001-grid-illumination](https://github.com/Prateek12376/LeetCode/tree/master/1001-grid-illumination) |
 | [1006-vowel-spellchecker](https://github.com/Prateek12376/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Prateek12376/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Prateek12376/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Prateek12376/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prateek12376/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Prateek12376/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prateek12376/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek12376/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek12376/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
