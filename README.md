@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Prateek12376/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0781-rabbits-in-forest](https://github.com/Prateek12376/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0792-binary-search](https://github.com/Prateek12376/LeetCode/tree/master/0792-binary-search) |
+| [0826-most-profit-assigning-work](https://github.com/Prateek12376/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/Prateek12376/LeetCode/tree/master/0827-making-a-large-island) |
 | [0830-largest-triangle-area](https://github.com/Prateek12376/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0870-advantage-shuffle](https://github.com/Prateek12376/LeetCode/tree/master/0870-advantage-shuffle) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Prateek12376/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prateek12376/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/Prateek12376/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0826-most-profit-assigning-work](https://github.com/Prateek12376/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0870-advantage-shuffle](https://github.com/Prateek12376/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Prateek12376/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prateek12376/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Prateek12376/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/Prateek12376/LeetCode/tree/master/0721-accounts-merge) |
+| [0826-most-profit-assigning-work](https://github.com/Prateek12376/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0870-advantage-shuffle](https://github.com/Prateek12376/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0876-hand-of-straights](https://github.com/Prateek12376/LeetCode/tree/master/0876-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/Prateek12376/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prateek12376/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Prateek12376/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/Prateek12376/LeetCode/tree/master/0792-binary-search) |
+| [0826-most-profit-assigning-work](https://github.com/Prateek12376/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/Prateek12376/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0878-nth-magical-number](https://github.com/Prateek12376/LeetCode/tree/master/0878-nth-magical-number) |
 | [0907-koko-eating-bananas](https://github.com/Prateek12376/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -916,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prateek12376/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/Prateek12376/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0781-rabbits-in-forest](https://github.com/Prateek12376/LeetCode/tree/master/0781-rabbits-in-forest) |
+| [0826-most-profit-assigning-work](https://github.com/Prateek12376/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0870-advantage-shuffle](https://github.com/Prateek12376/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0876-hand-of-straights](https://github.com/Prateek12376/LeetCode/tree/master/0876-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/Prateek12376/LeetCode/tree/master/0881-boats-to-save-people) |
