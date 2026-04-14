@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Prateek12376/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/Prateek12376/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prateek12376/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/Prateek12376/LeetCode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1200-minimum-absolute-difference](https://github.com/Prateek12376/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek12376/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Prateek12376/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -929,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Prateek12376/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/Prateek12376/LeetCode/tree/master/0991-broken-calculator) |
 | [1018-largest-perimeter-triangle](https://github.com/Prateek12376/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1144-decrease-elements-to-make-array-zigzag](https://github.com/Prateek12376/LeetCode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Prateek12376/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1328-break-a-palindrome](https://github.com/Prateek12376/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Prateek12376/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
