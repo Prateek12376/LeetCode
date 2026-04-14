@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Prateek12376/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Prateek12376/LeetCode/tree/master/0948-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/Prateek12376/LeetCode/tree/master/0948-bag-of-tokens) |
+| [0954-array-of-doubled-pairs](https://github.com/Prateek12376/LeetCode/tree/master/0954-array-of-doubled-pairs) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prateek12376/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Prateek12376/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0989-add-to-array-form-of-integer](https://github.com/Prateek12376/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Prateek12376/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/Prateek12376/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prateek12376/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0954-array-of-doubled-pairs](https://github.com/Prateek12376/LeetCode/tree/master/0954-array-of-doubled-pairs) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prateek12376/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Prateek12376/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1001-grid-illumination](https://github.com/Prateek12376/LeetCode/tree/master/1001-grid-illumination) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/Prateek12376/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/Prateek12376/LeetCode/tree/master/0948-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/Prateek12376/LeetCode/tree/master/0948-bag-of-tokens) |
+| [0954-array-of-doubled-pairs](https://github.com/Prateek12376/LeetCode/tree/master/0954-array-of-doubled-pairs) |
 | [1018-largest-perimeter-triangle](https://github.com/Prateek12376/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prateek12376/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Prateek12376/LeetCode/tree/master/1048-longest-string-chain) |
@@ -932,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/Prateek12376/LeetCode/tree/master/0910-smallest-range-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prateek12376/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/Prateek12376/LeetCode/tree/master/0948-bag-of-tokens) |
+| [0954-array-of-doubled-pairs](https://github.com/Prateek12376/LeetCode/tree/master/0954-array-of-doubled-pairs) |
 | [0991-broken-calculator](https://github.com/Prateek12376/LeetCode/tree/master/0991-broken-calculator) |
 | [1018-largest-perimeter-triangle](https://github.com/Prateek12376/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Prateek12376/LeetCode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
