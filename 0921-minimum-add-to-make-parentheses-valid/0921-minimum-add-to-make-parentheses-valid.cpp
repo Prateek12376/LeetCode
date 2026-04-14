@@ -17,6 +17,6 @@ public:
             }
         }
         count+=st.size();
-        return abs(count);
+        return count;
     }
 };
