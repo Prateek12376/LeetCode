@@ -17,7 +17,7 @@ public:
             }
             cnt2++;
         }
-        if(cnt1>=n-1 && cnt2>=n-1){
+        if(cnt1==n && cnt2==n){
             return -1;
         }
         return min(cnt1,cnt2);
