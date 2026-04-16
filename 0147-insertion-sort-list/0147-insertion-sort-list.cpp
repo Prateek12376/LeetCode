@@ -11,21 +11,20 @@
 class Solution {
 public:
     ListNode* insertionSortList(ListNode* head) {
-        ListNode* newh= new ListNode(-1);
-        ListNode* t1 = newh;
+        ListNode* dummyN= new ListNode(-1);
         ListNode* temp= head;
-        vector<int>arr;
         while(temp!=NULL){
-            arr.push_back(temp->val);
-            temp=temp->next;
+            ListNode* prev=dummyN;
+            ListNode* nextN=temp->next;
+
+            while(prev->next!=NULL && prev->next->val<temp->val){
+                prev=prev->next;
+            }
+            temp->next=prev->next;
+            prev->next=temp;
+            temp=nextN;
         }
-        sort(arr.begin(),arr.end());
-        for(int i=0;i<arr.size();i++){
-            ListNode* n1= new ListNode(arr[i]);
-            t1->next=n1;
-            t1=t1->next;
-        }
-        t1->next=NULL;
-        return newh->next;
+        return dummyN->next;
+        
     }
 };
