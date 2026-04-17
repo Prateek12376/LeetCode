@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Prateek12376/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Prateek12376/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3797-design-spreadsheet](https://github.com/Prateek12376/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Prateek12376/LeetCode/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Prateek12376/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Prateek12376/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prateek12376/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -977,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Prateek12376/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Prateek12376/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Prateek12376/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Prateek12376/LeetCode/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Prateek12376/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Union Find
 |  |
@@ -1081,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Prateek12376/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Prateek12376/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Prateek12376/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Prateek12376/LeetCode/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prateek12376/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -1118,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prateek12376/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/Prateek12376/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Prateek12376/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Prateek12376/LeetCode/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Prateek12376/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
@@ -1310,6 +1314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prateek12376/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Prateek12376/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/Prateek12376/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Prateek12376/LeetCode/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Prateek12376/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Queue
 |  |
