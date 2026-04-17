@@ -960,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/Prateek12376/LeetCode/tree/master/0991-broken-calculator) |
 | [1018-largest-perimeter-triangle](https://github.com/Prateek12376/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/Prateek12376/LeetCode/tree/master/1029-two-city-scheduling) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prateek12376/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Prateek12376/LeetCode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Prateek12376/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1328-break-a-palindrome](https://github.com/Prateek12376/LeetCode/tree/master/1328-break-a-palindrome) |
@@ -1047,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Prateek12376/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1048-longest-string-chain](https://github.com/Prateek12376/LeetCode/tree/master/1048-longest-string-chain) |
 | [1078-remove-outermost-parentheses](https://github.com/Prateek12376/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prateek12376/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Prateek12376/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Prateek12376/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Prateek12376/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -1109,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Prateek12376/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prateek12376/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Prateek12376/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prateek12376/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1582-design-browser-history](https://github.com/Prateek12376/LeetCode/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Prateek12376/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateek12376/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -1304,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Prateek12376/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Prateek12376/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prateek12376/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prateek12376/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Prateek12376/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/Prateek12376/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Prateek12376/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
