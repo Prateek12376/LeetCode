@@ -2,15 +2,18 @@ class Solution {
 public:
     string lexSmallestAfterDeletion(string s) {
         vector<int>freq(26,0);
-        vector<int>rem(26,0);
+        // vector<int>rem(26,0);
+        // for(int i=0;i<s.size();i++){
+        //     rem[s[i]-'a']++;
+        // }
         for(int i=0;i<s.size();i++){
-            rem[s[i]-'a']++;
+            freq[s[i]-'a']++;
         }
         stack<char>st;
         for(int i=0;i<s.size();i++){
-            freq[s[i]-'a']++;
-            rem[s[i]-'a']--;
-            while(!st.empty() && st.top()>s[i] && (freq[st.top()-'a']+ rem[st.top()-'a'])>1){
+            // freq[s[i]-'a']++;
+            // rem[s[i]-'a']--;
+            while(!st.empty() && st.top()>s[i] && (freq[st.top()-'a'])>1){
                 freq[st.top()-'a']--;
                 st.pop();
             }
