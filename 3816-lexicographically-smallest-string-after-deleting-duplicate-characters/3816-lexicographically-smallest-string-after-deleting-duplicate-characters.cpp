@@ -23,7 +23,7 @@ public:
         }
         reverse(ans.begin(),ans.end());
         int j=ans.size()-1;
-        while(j>0 && (ans[j]<=ans[j-1] || ans[j]>=ans[j-1] )&& freq[ans[j]-'a']>1){
+        while(j>0 && freq[ans[j]-'a']>1){
             freq[ans[j]-'a']--;
             j--;
         }
