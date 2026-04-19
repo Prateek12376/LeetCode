@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Prateek12376/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/Prateek12376/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Prateek12376/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Prateek12376/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prateek12376/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prateek12376/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Prateek12376/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0948-bag-of-tokens](https://github.com/Prateek12376/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1048-longest-string-chain](https://github.com/Prateek12376/LeetCode/tree/master/1048-longest-string-chain) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Prateek12376/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prateek12376/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prateek12376/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Prateek12376/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Prateek12376/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Prateek12376/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Prateek12376/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Prateek12376/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/Prateek12376/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Prateek12376/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
