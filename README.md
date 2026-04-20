@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Prateek12376/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prateek12376/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Prateek12376/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0710-random-pick-with-blacklist](https://github.com/Prateek12376/LeetCode/tree/master/0710-random-pick-with-blacklist) |
 | [0728-self-dividing-numbers](https://github.com/Prateek12376/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Prateek12376/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0781-rabbits-in-forest](https://github.com/Prateek12376/LeetCode/tree/master/0781-rabbits-in-forest) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Prateek12376/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prateek12376/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Prateek12376/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0710-random-pick-with-blacklist](https://github.com/Prateek12376/LeetCode/tree/master/0710-random-pick-with-blacklist) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prateek12376/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Prateek12376/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/Prateek12376/LeetCode/tree/master/0721-accounts-merge) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Prateek12376/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prateek12376/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prateek12376/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0710-random-pick-with-blacklist](https://github.com/Prateek12376/LeetCode/tree/master/0710-random-pick-with-blacklist) |
 | [0721-accounts-merge](https://github.com/Prateek12376/LeetCode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Prateek12376/LeetCode/tree/master/0767-reorganize-string) |
 | [0781-rabbits-in-forest](https://github.com/Prateek12376/LeetCode/tree/master/0781-rabbits-in-forest) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Prateek12376/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prateek12376/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Prateek12376/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0710-random-pick-with-blacklist](https://github.com/Prateek12376/LeetCode/tree/master/0710-random-pick-with-blacklist) |
 | [0721-accounts-merge](https://github.com/Prateek12376/LeetCode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Prateek12376/LeetCode/tree/master/0767-reorganize-string) |
 | [0825-friends-of-appropriate-ages](https://github.com/Prateek12376/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
@@ -674,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Prateek12376/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Prateek12376/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Prateek12376/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0710-random-pick-with-blacklist](https://github.com/Prateek12376/LeetCode/tree/master/0710-random-pick-with-blacklist) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prateek12376/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Prateek12376/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/Prateek12376/LeetCode/tree/master/0792-binary-search) |
@@ -1619,4 +1624,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Prateek12376/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0710-random-pick-with-blacklist](https://github.com/Prateek12376/LeetCode/tree/master/0710-random-pick-with-blacklist) |
 <!---LeetCode Topics End-->
