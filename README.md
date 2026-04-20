@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/Prateek12376/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Prateek12376/LeetCode/tree/master/0398-random-pick-index) |
 | [0441-arranging-coins](https://github.com/Prateek12376/LeetCode/tree/master/0441-arranging-coins) |
+| [0528-random-pick-with-weight](https://github.com/Prateek12376/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0564-find-the-closest-palindrome](https://github.com/Prateek12376/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prateek12376/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Prateek12376/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Prateek12376/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Prateek12376/LeetCode/tree/master/0518-coin-change-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Prateek12376/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0528-random-pick-with-weight](https://github.com/Prateek12376/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prateek12376/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Prateek12376/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Prateek12376/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Prateek12376/LeetCode/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Prateek12376/LeetCode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Prateek12376/LeetCode/tree/master/0493-reverse-pairs) |
+| [0528-random-pick-with-weight](https://github.com/Prateek12376/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prateek12376/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Prateek12376/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Prateek12376/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Prateek12376/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Prateek12376/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Prateek12376/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0528-random-pick-with-weight](https://github.com/Prateek12376/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Prateek12376/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prateek12376/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Prateek12376/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -1628,5 +1632,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Prateek12376/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Prateek12376/LeetCode/tree/master/0398-random-pick-index) |
+| [0528-random-pick-with-weight](https://github.com/Prateek12376/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0710-random-pick-with-blacklist](https://github.com/Prateek12376/LeetCode/tree/master/0710-random-pick-with-blacklist) |
 <!---LeetCode Topics End-->
