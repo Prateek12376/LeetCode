@@ -3,7 +3,7 @@ class DisjointSet{
     vector<int>parent;
     vector<int>size;
     DisjointSet(int n){
-        size.resize(n+1,0);
+        size.resize(n+1,1);
         parent.resize(n+1);
         for(int i=0;i<=n;i++){
             parent[i]=i;
