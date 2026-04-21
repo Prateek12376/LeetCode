@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek12376/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Prateek12376/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prateek12376/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Prateek12376/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek12376/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Prateek12376/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek12376/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Prateek12376/LeetCode/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek12376/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Prateek12376/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Prateek12376/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek12376/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek12376/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Prateek12376/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -986,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Prateek12376/LeetCode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Prateek12376/LeetCode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Prateek12376/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Prateek12376/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1328-break-a-palindrome](https://github.com/Prateek12376/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Prateek12376/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1612-avoid-flood-in-the-city](https://github.com/Prateek12376/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
