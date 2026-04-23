@@ -14,17 +14,16 @@ public:
         if(head==NULL || head->next==NULL){
             return head;
         }
-        ListNode* odd= head;
+        ListNode* odd = head;
         ListNode* even= head->next;
-        ListNode* even_H= head->next;
+        ListNode* even_h= even;
         while(even!=NULL && even->next!=NULL){
-            odd->next=odd->next->next;
-            even->next=even->next->next;
-
+            odd->next=even->next;
             odd=odd->next;
+            even->next=odd->next;
             even=even->next;
         }
-        odd->next=even_H;
+        odd->next=even_h;
         return head;
     }
 };
