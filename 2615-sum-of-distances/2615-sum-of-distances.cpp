@@ -8,7 +8,7 @@ public:
             mpp[nums[i]].push_back(i);
         }
         
-        for(auto it: mpp){
+        for(auto &it: mpp){
             vector<int>& ans = it.second;
             int sz=ans.size();
             vector<long long>prefixSI(sz,0);
