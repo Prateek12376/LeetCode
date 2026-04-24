@@ -4,7 +4,6 @@ public:
         int cnt=0;
         int cnt1=0;
         int cnt2=0;
-        unordered_map<char,int>mpp;
         for(int i=0;i<moves.size();i++){
             if(moves[i]=='_'){
                 cnt++;
