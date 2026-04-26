@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prateek12376/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Prateek12376/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Prateek12376/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Prateek12376/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-design-browser-history](https://github.com/Prateek12376/LeetCode/tree/master/1582-design-browser-history) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Prateek12376/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Prateek12376/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -908,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prateek12376/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prateek12376/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Prateek12376/LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Prateek12376/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Prateek12376/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Prateek12376/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Prateek12376/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -1302,6 +1304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Prateek12376/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/Prateek12376/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prateek12376/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Prateek12376/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Prateek12376/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Prateek12376/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Prateek12376/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1481,6 +1484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Prateek12376/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prateek12376/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prateek12376/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Prateek12376/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Prateek12376/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Prateek12376/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3863-power-grid-maintenance](https://github.com/Prateek12376/LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -1621,6 +1625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Prateek12376/LeetCode/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prateek12376/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prateek12376/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Prateek12376/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Prateek12376/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Prateek12376/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Prateek12376/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
