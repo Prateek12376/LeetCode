@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool dfs(int r,int c, vector<vector<char>>& grid,vector<vector<int>>& vis,int tr, int tc){
+    bool dfs(int r,int c, vector<vector<char>>& grid,vector<vector<int>>& vis,int parent_r, int parent_c){
         vis[r][c]=1;
         vector<pair<int,int>>dir={{-1,0},{1,0},{0,-1},{0,1}};
 
@@ -17,7 +17,7 @@ public:
                     }
                 }
                 else if(vis[nr][nc]==1){
-                    if(nr!=tr || nc!=tc){
+                    if(nr!=parent_r || nc!=parent_c){
                         return true;
                     }
                 }
