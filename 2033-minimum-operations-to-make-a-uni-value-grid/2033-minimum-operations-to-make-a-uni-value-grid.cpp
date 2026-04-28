@@ -11,11 +11,11 @@ public:
 
         int n= ans.size()/2;
         int val=ans[n];
-        int cnt1=0;
+        int cnt=0;
         bool f1=true;
         for(int i=0;i<ans.size();i++){
             if(abs(ans[i]-val)%x==0){
-                cnt1+=abs(ans[i]-val)/x;
+                cnt+=abs(ans[i]-val)/x;
             }
             else{
                 f1=false;
@@ -25,7 +25,7 @@ public:
             return -1;
         }
         else{
-            return cnt1;
+            return cnt;
         }
     }
 };
