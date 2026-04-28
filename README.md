@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prateek12376/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prateek12376/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Prateek12376/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Prateek12376/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Prateek12376/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prateek12376/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prateek12376/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/Prateek12376/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1829-maximum-units-on-a-truck](https://github.com/Prateek12376/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prateek12376/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Prateek12376/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Prateek12376/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prateek12376/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prateek12376/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/Prateek12376/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [1829-maximum-units-on-a-truck](https://github.com/Prateek12376/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prateek12376/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Prateek12376/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Prateek12376/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Prateek12376/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Prateek12376/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
