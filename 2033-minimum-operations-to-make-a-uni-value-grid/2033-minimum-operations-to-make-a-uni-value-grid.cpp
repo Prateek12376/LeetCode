@@ -12,20 +12,14 @@ public:
         int n= ans.size()/2;
         int val=ans[n];
         int cnt=0;
-        bool f1=true;
         for(int i=0;i<ans.size();i++){
-            if(abs(ans[i]-val)%x==0){
-                cnt+=abs(ans[i]-val)/x;
+            if(abs(ans[i]-val)%x!=0){
+                return -1;
             }
             else{
-                f1=false;
+                cnt+=abs(ans[i]-val)/x;
             }
         }
-        if(f1==false){
-            return -1;
-        }
-        else{
-            return cnt;
-        }
+        return cnt;
     }
 };
