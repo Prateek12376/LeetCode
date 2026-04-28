@@ -9,13 +9,14 @@ public:
         int t=0;
         int count=0;
         while(!pq.empty()){
-            double  time = pq.top();
+            double time = pq.top();
             pq.pop();
-            if(time<=t){
+            
+            if(time-t<=0){
                 break;
             }
-            count++;
             t++;
+            count++;
         }
         return count;
     }
