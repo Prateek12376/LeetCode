@@ -28,9 +28,9 @@ public:
                 int nc=c+it.second;
 
                 if(nr<n && nr>=0 && nc>=0 && nc<m && vis[nr][nc]==0){
-                    for(auto it : dir[grid[nr][nc]]){
-                        int nrB=nr+it.first;
-                        int ncB=nc+it.second;
+                    for(auto reverse : dir[grid[nr][nc]]){
+                        int nrB=nr+reverse.first;
+                        int ncB=nc+reverse.second;
                         if(nrB==r && ncB==c){
                             vis[nr][nc]=1;
                             q.push({nr,nc});
