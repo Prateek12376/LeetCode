@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prateek12376/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Prateek12376/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Prateek12376/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Prateek12376/LeetCode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1824-minimum-sideway-jumps](https://github.com/Prateek12376/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Prateek12376/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/Prateek12376/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
@@ -1027,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Prateek12376/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prateek12376/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Prateek12376/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Prateek12376/LeetCode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1824-minimum-sideway-jumps](https://github.com/Prateek12376/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [1829-maximum-units-on-a-truck](https://github.com/Prateek12376/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prateek12376/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
