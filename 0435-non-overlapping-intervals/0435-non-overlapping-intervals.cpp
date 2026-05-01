@@ -7,15 +7,14 @@ public:
         sort(intervals.begin(),intervals.end(),[&](vector<int>a, vector<int>b){
             return a[1]<b[1];
         });
-        vector<vector<int>>ans;
+        int end=intervals[0][1];
         int count=0;
-        ans.push_back(intervals[0]);
         for(int i=1;i<n;i++){
-            if(intervals[i][0]<ans.back()[1]){
+            if(intervals[i][0]<end){
                 count++;
             }
             else{
-                ans.push_back(intervals[i]);
+                end=intervals[i][1];
             }
         }
         return count;
