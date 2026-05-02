@@ -18,6 +18,7 @@ public:
                 int n1=num%10;
                 if(mpp.find(n1)==mpp.end()){
                     f1=false;
+                    break;
                 }
                 if(mpp.find(n1)!=mpp.end() && mpp[n1]!=n1){
                     f2=true;
