@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Prateek12376/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Prateek12376/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Prateek12376/LeetCode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Prateek12376/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1824-minimum-sideway-jumps](https://github.com/Prateek12376/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Prateek12376/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/Prateek12376/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Prateek12376/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/Prateek12376/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Prateek12376/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Prateek12376/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1829-maximum-units-on-a-truck](https://github.com/Prateek12376/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prateek12376/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Prateek12376/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
@@ -1048,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prateek12376/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Prateek12376/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Prateek12376/LeetCode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Prateek12376/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1824-minimum-sideway-jumps](https://github.com/Prateek12376/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [1829-maximum-units-on-a-truck](https://github.com/Prateek12376/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prateek12376/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
