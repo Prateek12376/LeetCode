@@ -16,15 +16,22 @@ public:
                 if(lower>upper){
                     ans[1][i]=1;
                     lower--;
+                    colsum[i]--;
                 }
                 else{
                     ans[0][i]=1;
                     upper--;
+                    colsum[i]--;
                 }
             }
         }
         if(lower!=0 || upper!=0){
             return {};
+        }
+        for(int i=0;i<n;i++){
+            if(colsum[i]>0){
+                return {};
+            }
         }
         return ans;
     }
