@@ -1130,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Prateek12376/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/Prateek12376/LeetCode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Prateek12376/LeetCode/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/Prateek12376/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Prateek12376/LeetCode/tree/master/0812-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prateek12376/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Prateek12376/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1247,6 +1248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prateek12376/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Prateek12376/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Prateek12376/LeetCode/tree/master/0812-rotate-string) |
 ## Trie
 |  |
