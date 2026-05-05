@@ -1292,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Prateek12376/LeetCode/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/Prateek12376/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0460-lfu-cache](https://github.com/Prateek12376/LeetCode/tree/master/0460-lfu-cache) |
+| [0725-split-linked-list-in-parts](https://github.com/Prateek12376/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/Prateek12376/LeetCode/tree/master/1582-design-browser-history) |
