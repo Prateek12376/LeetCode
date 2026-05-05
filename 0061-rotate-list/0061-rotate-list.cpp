@@ -10,35 +10,34 @@
  */
 class Solution {
 public:
-    ListNode* find_new_lastNode(ListNode* temp, int len){
+    ListNode* find_lastNode(ListNode* head, int len){
         int count=1;
-        while(temp!=NULL){
-            if(count==len){
-                return temp;
-            }
-            count++;
+        ListNode* temp=head;
+        while(count<len){
             temp=temp->next;
+            count++;
         }
         return temp;
     }
     ListNode* rotateRight(ListNode* head, int k) {
-        if(head==NULL || head->next==NULL ){
+        if(head==NULL || head->next==NULL){
             return head;
         }
-        int length =1;
+        int len=1;
         ListNode* tail=head;
         while(tail->next!=NULL){
-            length++;
+            len++;
             tail=tail->next;
         }
-        k=k%length;
-        if(k==0){
+        int newk= k%len;
+        if(newk==0){
             return head;
         }
         tail->next=head;
-        ListNode* new_lastNode= find_new_lastNode(head,length-k);
-        head=new_lastNode->next;
-        new_lastNode->next=NULL;
+        ListNode* lastN= find_lastNode(head,len-newk);
+        head=lastN->next;
+        lastN->next=NULL;
         return head;
+        
     }
 };
