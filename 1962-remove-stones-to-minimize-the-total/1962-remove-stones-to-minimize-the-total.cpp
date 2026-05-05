@@ -8,8 +8,7 @@ public:
         while(k>0){
             int val=pq.top();
             pq.pop();
-            int newV= floor(val/2);
-            newV+=val%2;
+            int newV= val-(val/2);
             pq.push(newV);
             k--;
         }
