@@ -6,8 +6,11 @@ public:
         vector<vector<char>>rgrid(m,vector<char>(n,'.'));
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                rgrid[j][n-i-1]=boxGrid[i][j];
+                rgrid[j][i]=boxGrid[i][j];
             }
+        }
+        for(int i=0;i<m;i++){
+            reverse(rgrid[i].begin(),rgrid[i].end());
         }
         for(int col=0;col<n;col++){
            int bottom=m-1;
