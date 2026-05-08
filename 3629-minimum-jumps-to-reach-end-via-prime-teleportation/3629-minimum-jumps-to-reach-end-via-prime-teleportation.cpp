@@ -1,29 +1,20 @@
 class Solution {
 public:
-        static vector<bool> isPrime;
+    static vector<bool> isPrime;
     static bool sieveDone;
-
     static void buildSieve() {
-
         if (sieveDone) return;
-
         int MAX = 1000001;
-
         isPrime.assign(MAX, true);
-
         isPrime[0] = false;
         isPrime[1] = false;
-
         for (long long i = 2; i * i < MAX; i++) {
-
             if (isPrime[i]) {
-
                 for (long long j = i * i; j < MAX; j += i) {
                     isPrime[j] = false;
                 }
             }
         }
-
         sieveDone = true;
     }
     int minJumps(vector<int>& nums) {
