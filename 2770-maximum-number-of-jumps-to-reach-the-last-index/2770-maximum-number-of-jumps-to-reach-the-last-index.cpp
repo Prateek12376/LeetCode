@@ -4,14 +4,14 @@ public:
         if(ind==nums.size()-1){
             return 0;
         }
-        if(dpp[ind][jump]!=-2){
+        if(dpp[ind][jump]!=-1){
             return dpp[ind][jump];
         }
-        int maxi=-1;
+        int maxi=-1e5;
         for(int i=ind+1;i<nums.size();i++){
             if(abs(nums[ind]-nums[i])<=target){
                 int next=maxJ(i,jump+1,nums,target,dpp);
-                if(next!=-1){
+                if(next!=-1e5){
                     maxi=max(maxi,next+1);
                 }
             }
@@ -21,9 +21,9 @@ public:
     }
     int maximumJumps(vector<int>& nums, int target) {
         int n=nums.size();
-        vector<vector<int>>dpp(n,vector<int>(n,-2));
+        vector<vector<int>>dpp(n,vector<int>(n,-1));
         int ans= maxJ(0,0,nums,target,dpp);
-        if(ans==0){
+        if(ans<=0){
             return -1;
         }
         return ans;
