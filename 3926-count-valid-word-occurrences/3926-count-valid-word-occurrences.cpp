@@ -27,7 +27,7 @@ public:
             }
             string part= ans.substr(i,k-i);
                 mpp[part]++;
-            i=k;
+            i=k-1;
         }
         int n=queries.size();
         vector<int>res;
