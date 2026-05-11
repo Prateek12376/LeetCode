@@ -5,6 +5,10 @@ public:
         int n=nums.size();
         for(int i=n-1;i>=0;i--){
             int num=nums[i];
+            if (num == 0) {
+                ans.push_back(0);
+                continue;
+            }
             while(num>0){
                 int n1=num%10;
                 ans.push_back(n1);
