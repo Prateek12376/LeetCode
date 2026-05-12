@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Prateek12376/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prateek12376/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/Prateek12376/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Prateek12376/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Prateek12376/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Prateek12376/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Prateek12376/LeetCode/tree/master/2169-simple-bank-system) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Prateek12376/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Prateek12376/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/Prateek12376/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Prateek12376/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Prateek12376/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Prateek12376/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3488-closest-equal-element-queries](https://github.com/Prateek12376/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Prateek12376/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/Prateek12376/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Prateek12376/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Prateek12376/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Prateek12376/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Prateek12376/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Prateek12376/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
