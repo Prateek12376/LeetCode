@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Prateek12376/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Prateek12376/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/Prateek12376/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Prateek12376/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Prateek12376/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prateek12376/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Prateek12376/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Prateek12376/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Prateek12376/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/Prateek12376/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Prateek12376/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Prateek12376/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Prateek12376/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1829-maximum-units-on-a-truck](https://github.com/Prateek12376/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
@@ -1068,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Prateek12376/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1612-avoid-flood-in-the-city](https://github.com/Prateek12376/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Prateek12376/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Prateek12376/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prateek12376/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Prateek12376/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Prateek12376/LeetCode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
