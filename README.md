@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Prateek12376/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1478-allocate-mailboxes](https://github.com/Prateek12376/LeetCode/tree/master/1478-allocate-mailboxes) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Prateek12376/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Prateek12376/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1642-water-bottles](https://github.com/Prateek12376/LeetCode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Prateek12376/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Prateek12376/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Prateek12376/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Prateek12376/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Prateek12376/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Prateek12376/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1582-design-browser-history](https://github.com/Prateek12376/LeetCode/tree/master/1582-design-browser-history) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Prateek12376/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Prateek12376/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Prateek12376/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Prateek12376/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Prateek12376/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Prateek12376/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1626-best-team-with-no-conflicts](https://github.com/Prateek12376/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Prateek12376/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Prateek12376/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -1070,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Prateek12376/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Prateek12376/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Prateek12376/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Prateek12376/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1612-avoid-flood-in-the-city](https://github.com/Prateek12376/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Prateek12376/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Prateek12376/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -1460,6 +1464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Prateek12376/LeetCode/tree/master/0292-nim-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Prateek12376/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3462-vowels-game-in-a-string](https://github.com/Prateek12376/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Interactive
 |  |
