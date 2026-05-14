@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Prateek12376/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/Prateek12376/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prateek12376/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1094-car-pooling](https://github.com/Prateek12376/LeetCode/tree/master/1094-car-pooling) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/Prateek12376/LeetCode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1200-minimum-absolute-difference](https://github.com/Prateek12376/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek12376/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prateek12376/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1029-two-city-scheduling](https://github.com/Prateek12376/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1048-longest-string-chain](https://github.com/Prateek12376/LeetCode/tree/master/1048-longest-string-chain) |
+| [1094-car-pooling](https://github.com/Prateek12376/LeetCode/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/Prateek12376/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Prateek12376/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Prateek12376/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prateek12376/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Prateek12376/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Prateek12376/LeetCode/tree/master/0948-sort-an-array) |
+| [1094-car-pooling](https://github.com/Prateek12376/LeetCode/tree/master/1094-car-pooling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Prateek12376/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1405-longest-happy-string](https://github.com/Prateek12376/LeetCode/tree/master/1405-longest-happy-string) |
 | [1612-avoid-flood-in-the-city](https://github.com/Prateek12376/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -817,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Prateek12376/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Prateek12376/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prateek12376/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Prateek12376/LeetCode/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek12376/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek12376/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prateek12376/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -917,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Prateek12376/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Prateek12376/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/Prateek12376/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [1094-car-pooling](https://github.com/Prateek12376/LeetCode/tree/master/1094-car-pooling) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Prateek12376/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Prateek12376/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Prateek12376/LeetCode/tree/master/1642-water-bottles) |
