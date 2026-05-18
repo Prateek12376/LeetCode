@@ -31,10 +31,10 @@ public:
                     vector<int>& nums= mpp[arr[ind]];
                     int j=0;
                     while(j<nums.size()){
-                        int index=nums[j];
-                        if(vis[index]==0){
-                            q.push(index);
-                            vis[index]=1;
+                        int nextI=nums[j];
+                        if(vis[nextI]==0){
+                            q.push(nextI);
+                            vis[nextI]=1;
                         }
                         j++;
                     }
