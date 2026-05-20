@@ -11,11 +11,11 @@ public:
             }
             else{
                 mpp[A[i]]++;
-                if(mpp[A[i]]>=2){
+                if(mpp[A[i]]==2){
                     count++;
                 }
                 mpp[B[i]]++;
-                if(mpp[B[i]]>=2){
+                if(mpp[B[i]]==2){
                     count++;
                 }
             }
