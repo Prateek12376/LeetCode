@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Prateek12376/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2032-largest-odd-number-in-string](https://github.com/Prateek12376/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prateek12376/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Prateek12376/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2050-count-good-numbers](https://github.com/Prateek12376/LeetCode/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Prateek12376/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Prateek12376/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -1113,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Prateek12376/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/Prateek12376/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Prateek12376/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Prateek12376/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Prateek12376/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Prateek12376/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Prateek12376/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
@@ -1217,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Prateek12376/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prateek12376/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Prateek12376/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Prateek12376/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Prateek12376/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Prateek12376/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Prateek12376/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
@@ -1492,6 +1495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Prateek12376/LeetCode/tree/master/0292-nim-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Prateek12376/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Prateek12376/LeetCode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3462-vowels-game-in-a-string](https://github.com/Prateek12376/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Interactive
 |  |
