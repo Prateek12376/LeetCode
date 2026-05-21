@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Prateek12376/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Prateek12376/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Prateek12376/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Prateek12376/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prateek12376/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prateek12376/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3379-transformed-array](https://github.com/Prateek12376/LeetCode/tree/master/3379-transformed-array) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Prateek12376/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2784-check-if-array-is-good](https://github.com/Prateek12376/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Prateek12376/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Prateek12376/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Prateek12376/LeetCode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prateek12376/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Prateek12376/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -1232,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Prateek12376/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Prateek12376/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Prateek12376/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Prateek12376/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Prateek12376/LeetCode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3462-vowels-game-in-a-string](https://github.com/Prateek12376/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Prateek12376/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -1321,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prateek12376/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Prateek12376/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Prateek12376/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Prateek12376/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Linked List
 |  |
 | ------- |
