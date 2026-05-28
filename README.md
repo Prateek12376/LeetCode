@@ -969,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Prateek12376/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prateek12376/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Prateek12376/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Prateek12376/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Prateek12376/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/Prateek12376/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/Prateek12376/LeetCode/tree/master/3379-transformed-array) |
@@ -1248,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Prateek12376/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Prateek12376/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Prateek12376/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Prateek12376/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/Prateek12376/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Prateek12376/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Prateek12376/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -1301,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prateek12376/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/Prateek12376/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Prateek12376/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Prateek12376/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Prateek12376/LeetCode/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Prateek12376/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
