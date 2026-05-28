@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> rects;
     vector<int>prefix;
-    int sum=0;
+    int Tpoints=0;
     Solution(vector<vector<int>>& rects) {
         this->rects=rects;
 
@@ -11,15 +11,15 @@ public:
             int y1=it[1];
             int x2=it[2];
             int y2=it[3];
-            sum+= (x2-x1+1)*(y2-y1+1);
-            prefix.push_back(sum);
+            Tpoints+= (x2-x1+1)*(y2-y1+1);
+            prefix.push_back(Tpoints);
 
         }
 
     }
     
     vector<int> pick() {
-        int randP = (rand()% sum )+1;  // modulo gives till sum-1
+        int randP = (rand()% Tpoints )+1;  // modulo gives till sum-1
         int rectInd = lower_bound(prefix.begin(),prefix.end(),randP)-prefix.begin();
 
         vector<int>r = rects[rectInd];
