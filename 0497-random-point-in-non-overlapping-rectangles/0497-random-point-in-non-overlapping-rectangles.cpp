@@ -19,7 +19,7 @@ public:
     }
     
     vector<int> pick() {
-        int randP = rand()% sum +1;
+        int randP = (rand()% sum )+1;  // modulo gives till sum-1
         int rectInd = lower_bound(prefix.begin(),prefix.end(),randP)-prefix.begin();
 
         vector<int>r = rects[rectInd];
