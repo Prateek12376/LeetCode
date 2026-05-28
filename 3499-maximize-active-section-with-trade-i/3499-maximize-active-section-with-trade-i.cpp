@@ -2,7 +2,6 @@ class Solution {
 public:
     int maxActiveSectionsAfterTrade(string s) {
         int one=0;
-        s="1"+s+ "1";
         for(int i=0;i<s.size();i++){
             if(s[i]=='1'){
                 one++;
@@ -43,7 +42,6 @@ public:
             }
         }
         int ans= one+maxi;
-        ans=ans-2;
         return ans;
     }
 };
