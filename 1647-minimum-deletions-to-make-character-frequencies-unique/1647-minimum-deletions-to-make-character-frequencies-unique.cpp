@@ -6,8 +6,8 @@ public:
             arr[s[i]-'a']++;
         }
         int count=0;
-        set<int>st;
-        sort(arr.begin(),arr.end());
+        unordered_set<int>st;
+        // sort(arr.begin(),arr.end());
         for(int i=0;i<26;i++){
             if(arr[i]!=0){
                 if(st.count(arr[i])){
