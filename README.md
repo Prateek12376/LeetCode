@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Prateek12376/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Prateek12376/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Prateek12376/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/Prateek12376/LeetCode/tree/master/3161-block-placement-queries) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prateek12376/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prateek12376/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prateek12376/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -808,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Prateek12376/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/Prateek12376/LeetCode/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Prateek12376/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3161-block-placement-queries](https://github.com/Prateek12376/LeetCode/tree/master/3161-block-placement-queries) |
 | [3488-closest-equal-element-queries](https://github.com/Prateek12376/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3508-implement-router](https://github.com/Prateek12376/LeetCode/tree/master/3508-implement-router) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Prateek12376/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -1035,11 +1037,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Prateek12376/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Prateek12376/LeetCode/tree/master/0493-reverse-pairs) |
+| [3161-block-placement-queries](https://github.com/Prateek12376/LeetCode/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Prateek12376/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Prateek12376/LeetCode/tree/master/0493-reverse-pairs) |
+| [3161-block-placement-queries](https://github.com/Prateek12376/LeetCode/tree/master/3161-block-placement-queries) |
 ## Ordered Set
 |  |
 | ------- |
