@@ -32,9 +32,7 @@ public:
         int n=temp.size();
         vector<int>lps(n);
         computeLps(lps,temp);
-
         int len = lps[n-1];
-
         string add=  rev.substr(0,m-len);
         return add+s;
         
