@@ -25,6 +25,7 @@ public:
     }
     string shortestPalindrome(string s) {
         string rev= s;
+        int m=rev.size();
         reverse(rev.begin(),rev.end());
 
         string temp=  s +"#" + rev; 
@@ -34,9 +35,7 @@ public:
 
         int len = lps[n-1];
 
-        string add=  s.substr(len);
-
-        reverse(add.begin(),add.end());
+        string add=  rev.substr(0,m-len);
         return add+s;
         
     }
