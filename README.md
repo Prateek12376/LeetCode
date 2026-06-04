@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Prateek12376/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0781-rabbits-in-forest](https://github.com/Prateek12376/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0792-binary-search](https://github.com/Prateek12376/LeetCode/tree/master/0792-binary-search) |
+| [0792-number-of-matching-subsequences](https://github.com/Prateek12376/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0825-friends-of-appropriate-ages](https://github.com/Prateek12376/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/Prateek12376/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/Prateek12376/LeetCode/tree/master/0827-making-a-large-island) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Prateek12376/LeetCode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Prateek12376/LeetCode/tree/master/0767-reorganize-string) |
 | [0781-rabbits-in-forest](https://github.com/Prateek12376/LeetCode/tree/master/0781-rabbits-in-forest) |
+| [0792-number-of-matching-subsequences](https://github.com/Prateek12376/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0874-walking-robot-simulation](https://github.com/Prateek12376/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0876-hand-of-straights](https://github.com/Prateek12376/LeetCode/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Prateek12376/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/Prateek12376/LeetCode/tree/master/0710-random-pick-with-blacklist) |
 | [0721-accounts-merge](https://github.com/Prateek12376/LeetCode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Prateek12376/LeetCode/tree/master/0767-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/Prateek12376/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0825-friends-of-appropriate-ages](https://github.com/Prateek12376/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/Prateek12376/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0870-advantage-shuffle](https://github.com/Prateek12376/LeetCode/tree/master/0870-advantage-shuffle) |
@@ -803,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prateek12376/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Prateek12376/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/Prateek12376/LeetCode/tree/master/0792-binary-search) |
+| [0792-number-of-matching-subsequences](https://github.com/Prateek12376/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0825-friends-of-appropriate-ages](https://github.com/Prateek12376/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/Prateek12376/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/Prateek12376/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -941,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prateek12376/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prateek12376/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Prateek12376/LeetCode/tree/master/0788-rotated-digits) |
+| [0792-number-of-matching-subsequences](https://github.com/Prateek12376/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0931-minimum-falling-path-sum](https://github.com/Prateek12376/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Prateek12376/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Prateek12376/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -1248,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Prateek12376/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/Prateek12376/LeetCode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Prateek12376/LeetCode/tree/master/0767-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/Prateek12376/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/Prateek12376/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Prateek12376/LeetCode/tree/master/0812-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prateek12376/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1393,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Prateek12376/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Prateek12376/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prateek12376/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0792-number-of-matching-subsequences](https://github.com/Prateek12376/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Prateek12376/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Prateek12376/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Prateek12376/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
