@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Prateek12376/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prateek12376/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2169-simple-bank-system](https://github.com/Prateek12376/LeetCode/tree/master/2169-simple-bank-system) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Prateek12376/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/Prateek12376/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Prateek12376/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prateek12376/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/Prateek12376/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Prateek12376/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Prateek12376/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Prateek12376/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Prateek12376/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Prateek12376/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Prateek12376/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1176,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Prateek12376/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prateek12376/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Prateek12376/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Prateek12376/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Prateek12376/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Prateek12376/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Prateek12376/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
