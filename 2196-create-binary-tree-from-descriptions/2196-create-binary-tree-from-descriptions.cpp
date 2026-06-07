@@ -54,11 +54,9 @@ public:
             }
             mp[descriptions[i][0]].push_back({descriptions[i][2],descriptions[i][1]});
         }
-        int base;
+        
+        int base = *st.begin();
 
-        for(auto it : st){
-            base=it;
-        }
         TreeNode* root=  new TreeNode (base);
         TreeNode* temp = root;
 
