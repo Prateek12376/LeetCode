@@ -1,40 +1,42 @@
 class Solution {
 public:
-    int find_sub_array(vector<int>& nums, int max_sum){
-        int sum_array=0;
-        int sub_array=1;
-        int n=nums.size();
-        for(int i=0;i<n;i++){
-            if((sum_array+nums[i])<=max_sum){
-                sum_array+=nums[i];
+    int find_n(vector<int>& nums, int maxS){
+        int cntS =1;
+        int sum=0;
+        for(int i=0;i<nums.size();i++){
+            if(sum+nums[i]>maxS){
+                sum=nums[i];
+                cntS++;
             }
             else{
-                sub_array++;
-                sum_array=nums[i];
+                sum+=nums[i];
             }
         }
-        return sub_array;
+        return cntS;
     }
     int splitArray(vector<int>& nums, int k) {
         int n=nums.size();
-        int maxi=0;
+        int maxi= INT_MIN;
         int sum=0;
+
         for(int i=0;i<n;i++){
             maxi=max(maxi,nums[i]);
             sum+=nums[i];
         }
+        int ans=-1;
         int low=maxi;
         int high=sum;
-        int ans = 0;
         while(low<=high){
             int mid= low+ (high-low)/2;
-            int no_of_sub_array = find_sub_array(nums,mid);
-            if(no_of_sub_array>k){
-                low=mid+1;
-            }
-            else{
+
+            int nSubA = find_n(nums,mid);
+
+            if(nSubA<=k){
                 ans=mid;
                 high=mid-1;
+            }
+            else{
+                low=mid+1;
             }
         }
         return ans;
