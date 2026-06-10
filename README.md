@@ -1137,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Prateek12376/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prateek12376/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Prateek12376/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0649-dota2-senate](https://github.com/Prateek12376/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Prateek12376/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prateek12376/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/Prateek12376/LeetCode/tree/master/0738-monotone-increasing-digits) |
@@ -1265,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Prateek12376/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Prateek12376/LeetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Prateek12376/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0649-dota2-senate](https://github.com/Prateek12376/LeetCode/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Prateek12376/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Prateek12376/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Prateek12376/LeetCode/tree/master/0696-count-binary-substrings) |
@@ -1561,6 +1563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Prateek12376/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prateek12376/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Prateek12376/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/Prateek12376/LeetCode/tree/master/0649-dota2-senate) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Prateek12376/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3508-implement-router](https://github.com/Prateek12376/LeetCode/tree/master/3508-implement-router) |
 ## Monotonic Stack
