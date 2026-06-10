@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/Prateek12376/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/Prateek12376/LeetCode/tree/master/0827-making-a-large-island) |
 | [0830-largest-triangle-area](https://github.com/Prateek12376/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Prateek12376/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0870-advantage-shuffle](https://github.com/Prateek12376/LeetCode/tree/master/0870-advantage-shuffle) |
 | [0874-walking-robot-simulation](https://github.com/Prateek12376/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Prateek12376/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Prateek12376/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prateek12376/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Prateek12376/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Prateek12376/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/Prateek12376/LeetCode/tree/master/0948-sort-an-array) |
 | [1094-car-pooling](https://github.com/Prateek12376/LeetCode/tree/master/1094-car-pooling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Prateek12376/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/Prateek12376/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0825-friends-of-appropriate-ages](https://github.com/Prateek12376/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/Prateek12376/LeetCode/tree/master/0826-most-profit-assigning-work) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Prateek12376/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/Prateek12376/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0878-nth-magical-number](https://github.com/Prateek12376/LeetCode/tree/master/0878-nth-magical-number) |
 | [0907-koko-eating-bananas](https://github.com/Prateek12376/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -887,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Prateek12376/LeetCode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/Prateek12376/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Prateek12376/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Prateek12376/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prateek12376/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Prateek12376/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prateek12376/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -1387,6 +1391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Prateek12376/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prateek12376/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Prateek12376/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Prateek12376/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Prateek12376/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prateek12376/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Prateek12376/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -1564,6 +1569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Prateek12376/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Prateek12376/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/Prateek12376/LeetCode/tree/master/0649-dota2-senate) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Prateek12376/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Prateek12376/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3508-implement-router](https://github.com/Prateek12376/LeetCode/tree/master/3508-implement-router) |
 ## Monotonic Stack
@@ -1592,6 +1598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Prateek12376/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Prateek12376/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Brainteaser
 |  |
 | ------- |
