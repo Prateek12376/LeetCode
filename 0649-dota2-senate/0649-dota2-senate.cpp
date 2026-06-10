@@ -14,7 +14,7 @@ public:
             }
         }
 
-        while(true){
+        while(!q.empty()){
             if(R==0){
                 return "Dire";
             }
@@ -44,5 +44,6 @@ public:
                 }
             }
         }
+        return "";
     }
 };
