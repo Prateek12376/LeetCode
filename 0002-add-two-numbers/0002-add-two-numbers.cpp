@@ -14,28 +14,31 @@ public:
         ListNode* t1= l1;
         ListNode* t2= l2;
         ListNode* dummy = new ListNode(-1);
-        ListNode* curr=dummy;
+        ListNode* curr = dummy;
         int carry=0;
-        while(t1!=NULL || t2!=NULL){
-            int sum=carry;
-            if(t1!=NULL){
-                sum+=t1->val;
-                t1=t1->next;
+
+        while(l1!=NULL || l2!=NULL){
+            int sum= carry;
+
+            if(l1!=NULL){
+                sum+=l1->val;
+                l1=l1->next;
             }
-            if(t2!=NULL){
-                sum+=t2->val;
-                t2=t2->next;
+            if(l2!=NULL){
+                sum+=l2->val;
+                l2=l2->next;
             }
-            ListNode* newN = new ListNode(sum%10);
-            carry=sum/10;
+            carry= sum/10;
+            ListNode* newN =  new ListNode(sum%10);
+
             curr->next=newN;
             curr=curr->next;
         }
         if(carry>0){
-            ListNode* nN = new ListNode(carry);
-            curr->next=nN;
-            curr=curr->next;
+            ListNode* newN = new ListNode(carry);
+            curr->next=newN;
         }
+
         return dummy->next;
     }
 };
