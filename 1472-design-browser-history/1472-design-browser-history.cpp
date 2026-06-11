@@ -1,22 +1,23 @@
+struct Node{
+    string val;
+    Node* next;
+    Node* prev;
+public:
+    Node(string val1 , Node* forward, Node* backward){
+        val=val1;
+        next=forward;
+        prev=backward;
+    }
+    Node(string val1){
+        val=val1;
+        next=NULL;
+        prev=NULL;
+    }
+};
+    
+
 class BrowserHistory {
 public:
-    struct Node{
-        string val;
-        Node* next;
-        Node* prev;
-    public:
-        Node(string val1 , Node* forward, Node* backward){
-            val=val1;
-            next=forward;
-            prev=backward;
-        }
-        Node(string val1){
-            val=val1;
-            next=NULL;
-            prev=NULL;
-        }
-    };
-    
 
     Node* currP;
     BrowserHistory(string homepage) {
