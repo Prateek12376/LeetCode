@@ -1467,6 +1467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/Prateek12376/LeetCode/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/Prateek12376/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/Prateek12376/LeetCode/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/Prateek12376/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -1503,6 +1504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prateek12376/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prateek12376/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Prateek12376/LeetCode/tree/master/0337-house-robber-iii) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Prateek12376/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Prateek12376/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prateek12376/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1535,6 +1537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Prateek12376/LeetCode/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/Prateek12376/LeetCode/tree/master/0460-lfu-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/Prateek12376/LeetCode/tree/master/1582-design-browser-history) |
