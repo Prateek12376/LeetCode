@@ -8,7 +8,6 @@ public:
                 dfs(it,adj,cnt+1,maxP,vis);
             }
         }
-
     }
     int assignEdgeWeights(vector<vector<int>>& edges) {
         int mod = 1e9 +7 ;
@@ -28,8 +27,6 @@ public:
         int maxP=0;
 
         dfs(1,adj,0,maxP,vis);
-
-        // 2^(maxP-1)
         
         int a = maxP-1;
         int ans =1;
