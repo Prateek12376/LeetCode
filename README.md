@@ -1523,6 +1523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0778-swim-in-rising-water](https://github.com/Prateek12376/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prateek12376/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/Prateek12376/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0801-is-graph-bipartite](https://github.com/Prateek12376/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Prateek12376/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/Prateek12376/LeetCode/tree/master/0827-making-a-large-island) |
@@ -1665,6 +1666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Prateek12376/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Prateek12376/LeetCode/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Prateek12376/LeetCode/tree/master/0494-target-sum) |
+| [0797-all-paths-from-source-to-target](https://github.com/Prateek12376/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prateek12376/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Prateek12376/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
@@ -1721,6 +1723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Prateek12376/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Prateek12376/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prateek12376/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/Prateek12376/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0801-is-graph-bipartite](https://github.com/Prateek12376/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Prateek12376/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/Prateek12376/LeetCode/tree/master/0827-making-a-large-island) |
@@ -1891,6 +1894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Prateek12376/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prateek12376/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/Prateek12376/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prateek12376/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/Prateek12376/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prateek12376/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
