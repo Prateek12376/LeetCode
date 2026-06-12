@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3508-implement-router](https://github.com/Prateek12376/LeetCode/tree/master/3508-implement-router) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Prateek12376/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Prateek12376/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3552-grid-teleportation-traversal](https://github.com/Prateek12376/LeetCode/tree/master/3552-grid-teleportation-traversal) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Prateek12376/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Prateek12376/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Prateek12376/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/Prateek12376/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prateek12376/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3508-implement-router](https://github.com/Prateek12376/LeetCode/tree/master/3508-implement-router) |
+| [3552-grid-teleportation-traversal](https://github.com/Prateek12376/LeetCode/tree/master/3552-grid-teleportation-traversal) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Prateek12376/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Prateek12376/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Prateek12376/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1076,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Prateek12376/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Prateek12376/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Prateek12376/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3552-grid-teleportation-traversal](https://github.com/Prateek12376/LeetCode/tree/master/3552-grid-teleportation-traversal) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Prateek12376/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3797-design-spreadsheet](https://github.com/Prateek12376/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Binary Indexed Tree
@@ -1733,6 +1736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Prateek12376/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Prateek12376/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Prateek12376/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3552-grid-teleportation-traversal](https://github.com/Prateek12376/LeetCode/tree/master/3552-grid-teleportation-traversal) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Prateek12376/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3863-power-grid-maintenance](https://github.com/Prateek12376/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Tree
