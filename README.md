@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Prateek12376/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Prateek12376/LeetCode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prateek12376/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prateek12376/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prateek12376/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -1390,6 +1391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateek12376/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prateek12376/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2104-sum-of-subarray-ranges](https://github.com/Prateek12376/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2227-sum-of-subarray-ranges](https://github.com/Prateek12376/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Prateek12376/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Prateek12376/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -1487,6 +1489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/Prateek12376/LeetCode/tree/master/1472-design-browser-history) |
 | [1582-design-browser-history](https://github.com/Prateek12376/LeetCode/tree/master/1582-design-browser-history) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Prateek12376/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prateek12376/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Depth-First Search
