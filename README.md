@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Prateek12376/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prateek12376/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Prateek12376/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Prateek12376/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Prateek12376/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Prateek12376/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Prateek12376/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Prateek12376/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Prateek12376/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Prateek12376/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Prateek12376/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2429-design-a-food-rating-system](https://github.com/Prateek12376/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Prateek12376/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Prateek12376/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1078,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prateek12376/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/Prateek12376/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Prateek12376/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Prateek12376/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prateek12376/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2906-construct-product-matrix](https://github.com/Prateek12376/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Prateek12376/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1749,6 +1752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Prateek12376/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Prateek12376/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Prateek12376/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Prateek12376/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Prateek12376/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3552-grid-teleportation-traversal](https://github.com/Prateek12376/LeetCode/tree/master/3552-grid-teleportation-traversal) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Prateek12376/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -1911,6 +1915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prateek12376/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prateek12376/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Prateek12376/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Prateek12376/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Prateek12376/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Prateek12376/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Shortest Path
@@ -1920,6 +1925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prateek12376/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prateek12376/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Prateek12376/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Prateek12376/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Prateek12376/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Biconnected Component
 |  |
