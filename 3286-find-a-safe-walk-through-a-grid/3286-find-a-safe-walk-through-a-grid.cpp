@@ -37,10 +37,8 @@ public:
                         }
                     }
                     else{
-                        if(vis[nr][nc][h]==0){
-                            q.push({h,{nr,nc}});
-                            vis[nr][nc][h]=1;
-                        }
+                        q.push({h,{nr,nc}});
+                        vis[nr][nc][h]=1;
                     }
                 }
             }
