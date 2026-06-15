@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/Prateek12376/LeetCode/tree/master/3161-block-placement-queries) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prateek12376/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prateek12376/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Prateek12376/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prateek12376/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/Prateek12376/LeetCode/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Prateek12376/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Prateek12376/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Prateek12376/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2429-design-a-food-rating-system](https://github.com/Prateek12376/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Prateek12376/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Prateek12376/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Prateek12376/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Prateek12376/LeetCode/tree/master/3678-design-task-manager) |
@@ -1086,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prateek12376/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2906-construct-product-matrix](https://github.com/Prateek12376/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Prateek12376/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Prateek12376/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Prateek12376/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Prateek12376/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3552-grid-teleportation-traversal](https://github.com/Prateek12376/LeetCode/tree/master/3552-grid-teleportation-traversal) |
@@ -1757,6 +1760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Prateek12376/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Prateek12376/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Prateek12376/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Prateek12376/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3552-grid-teleportation-traversal](https://github.com/Prateek12376/LeetCode/tree/master/3552-grid-teleportation-traversal) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Prateek12376/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3863-power-grid-maintenance](https://github.com/Prateek12376/LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -1920,6 +1924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Prateek12376/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Prateek12376/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Prateek12376/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Prateek12376/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Prateek12376/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Shortest Path
 |  |
@@ -1930,6 +1935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Prateek12376/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Prateek12376/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Prateek12376/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Prateek12376/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Biconnected Component
 |  |
 | ------- |
