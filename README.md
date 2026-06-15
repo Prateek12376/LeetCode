@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Prateek12376/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Prateek12376/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Prateek12376/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Prateek12376/LeetCode/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Prateek12376/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Prateek12376/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prateek12376/LeetCode/tree/master/0202-happy-number) |
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Prateek12376/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Prateek12376/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Prateek12376/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Prateek12376/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Prateek12376/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Prateek12376/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Prateek12376/LeetCode/tree/master/0137-single-number-ii) |
@@ -1682,6 +1684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Prateek12376/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Prateek12376/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Prateek12376/LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Prateek12376/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Prateek12376/LeetCode/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/Prateek12376/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Prateek12376/LeetCode/tree/master/0131-palindrome-partitioning) |
