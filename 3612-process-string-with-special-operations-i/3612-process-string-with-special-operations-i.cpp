@@ -1,46 +1,24 @@
 class Solution {
 public:
     string processStr(string s) {
-        stack<char>st;
+        string st;
         for(int i=0;i<s.size();i++){
             if(s[i]=='*'){
                 if(!st.empty()){
-                    st.pop();
+                    st.pop_back();
                 }
             }
             else if(s[i]=='#'){
-                string ans="";
-                while(!st.empty()){
-                    ans+=st.top();
-                    st.pop();
-                }
-                reverse(ans.begin(),ans.end());
-                ans+=ans;
-                for(auto it : ans){
-                    st.push(it);
-                }
+               st+=st;
             }
             else if(s[i]=='%'){
-                string ans="";
-                while(!st.empty()){
-                    ans+=st.top();
-                    st.pop();
-                }
-                for(auto it: ans){
-                    st.push(it);
-                }
+               reverse(st.begin(),st.end());
             }
             else{
-                st.push(s[i]);
+                st+=s[i];
             }
         }
-        string res="";
-        while(!st.empty()){
-            res+=st.top();
-            st.pop();
-        }
-        reverse(res.begin(),res.end());
-
-        return res;
+        
+        return st;
     }
 };
