@@ -1005,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Prateek12376/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Prateek12376/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Prateek12376/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Prateek12376/LeetCode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Prateek12376/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Prateek12376/LeetCode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Prateek12376/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -1226,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/Prateek12376/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Prateek12376/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Prateek12376/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Prateek12376/LeetCode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Prateek12376/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Prateek12376/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Prateek12376/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -1345,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Prateek12376/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Prateek12376/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Prateek12376/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Prateek12376/LeetCode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/Prateek12376/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Prateek12376/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Prateek12376/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -1914,6 +1917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prateek12376/LeetCode/tree/master/0070-climbing-stairs) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Prateek12376/LeetCode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Union-Find
 |  |
 | ------- |
