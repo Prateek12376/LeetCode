@@ -896,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prateek12376/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prateek12376/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Prateek12376/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Prateek12376/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0868-binary-gap](https://github.com/Prateek12376/LeetCode/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Prateek12376/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Prateek12376/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -993,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prateek12376/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Prateek12376/LeetCode/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/Prateek12376/LeetCode/tree/master/0792-number-of-matching-subsequences) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Prateek12376/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0931-minimum-falling-path-sum](https://github.com/Prateek12376/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Prateek12376/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Prateek12376/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -1773,6 +1775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Prateek12376/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Prateek12376/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/Prateek12376/LeetCode/tree/master/0827-making-a-large-island) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Prateek12376/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Prateek12376/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prateek12376/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prateek12376/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1951,6 +1954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Prateek12376/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prateek12376/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Prateek12376/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Prateek12376/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prateek12376/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/Prateek12376/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prateek12376/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -2011,4 +2015,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Prateek12376/LeetCode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Prateek12376/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Prateek12376/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Prateek12376/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
