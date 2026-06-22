@@ -24,10 +24,7 @@ public:
             long long d=it.first;
             int u=it.second.first;
             int streak=it.second.second;
-            // if(d!=dist[u][streak]){
-            //     continue;
-            // } 
-
+            
             for(auto it:adj[u]){
                 int v= it.first;
                 int w= it.second;
