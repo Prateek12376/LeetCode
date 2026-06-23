@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prateek12376/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0710-random-pick-with-blacklist](https://github.com/Prateek12376/LeetCode/tree/master/0710-random-pick-with-blacklist) |
 | [0721-accounts-merge](https://github.com/Prateek12376/LeetCode/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/Prateek12376/LeetCode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Prateek12376/LeetCode/tree/master/0767-reorganize-string) |
 | [0781-rabbits-in-forest](https://github.com/Prateek12376/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0792-number-of-matching-subsequences](https://github.com/Prateek12376/LeetCode/tree/master/0792-number-of-matching-subsequences) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Prateek12376/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prateek12376/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/Prateek12376/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/Prateek12376/LeetCode/tree/master/0763-partition-labels) |
 | [0825-friends-of-appropriate-ages](https://github.com/Prateek12376/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/Prateek12376/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0870-advantage-shuffle](https://github.com/Prateek12376/LeetCode/tree/master/0870-advantage-shuffle) |
@@ -1184,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Prateek12376/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Prateek12376/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/Prateek12376/LeetCode/tree/master/0738-monotone-increasing-digits) |
+| [0763-partition-labels](https://github.com/Prateek12376/LeetCode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Prateek12376/LeetCode/tree/master/0767-reorganize-string) |
 | [0781-rabbits-in-forest](https://github.com/Prateek12376/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0826-most-profit-assigning-work](https://github.com/Prateek12376/LeetCode/tree/master/0826-most-profit-assigning-work) |
@@ -1320,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Prateek12376/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Prateek12376/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/Prateek12376/LeetCode/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/Prateek12376/LeetCode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Prateek12376/LeetCode/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/Prateek12376/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/Prateek12376/LeetCode/tree/master/0796-rotate-string) |
