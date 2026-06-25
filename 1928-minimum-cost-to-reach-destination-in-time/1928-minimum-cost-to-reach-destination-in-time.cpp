@@ -26,6 +26,8 @@ public:
             int time = it.second.first;
             int node = it.second.second;
 
+            if(cost>dist[node][time]);
+
             for(auto it : adj[node]){
                 int edgT =it.second;
                 int edgN = it.first;
