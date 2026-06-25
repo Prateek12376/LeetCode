@@ -13,9 +13,7 @@ public:
             adj[v].push_back({u,t});
         }
         vector<vector<int>>dist(n,vector<int>(maxTime+1,1e9));                      
-        for(int i=0;i<=maxTime;i++){
-            dist[0][i]=passingFees[0];
-        }
+        dist[0][0]=passingFees[0];
         priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>>pq;
         pq.push({passingFees[0],{0,0}});
 
