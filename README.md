@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Prateek12376/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Prateek12376/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Prateek12376/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Prateek12376/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Prateek12376/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Prateek12376/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/Prateek12376/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -1028,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/Prateek12376/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [1871-jump-game-vii](https://github.com/Prateek12376/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Prateek12376/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Prateek12376/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Prateek12376/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Prateek12376/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Prateek12376/LeetCode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -1981,6 +1983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prateek12376/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Prateek12376/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Prateek12376/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Prateek12376/LeetCode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Prateek12376/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Prateek12376/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Prateek12376/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
