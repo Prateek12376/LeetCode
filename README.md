@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prateek12376/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Prateek12376/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/Prateek12376/LeetCode/tree/master/1306-jump-game-iii) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Prateek12376/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Prateek12376/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1340-jump-game-v](https://github.com/Prateek12376/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Prateek12376/LeetCode/tree/master/1345-jump-game-iv) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek12376/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Prateek12376/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Prateek12376/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Prateek12376/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Prateek12376/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1345-jump-game-iv](https://github.com/Prateek12376/LeetCode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek12376/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Prateek12376/LeetCode/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/Prateek12376/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Prateek12376/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Prateek12376/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Prateek12376/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1340-jump-game-v](https://github.com/Prateek12376/LeetCode/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek12376/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -1814,6 +1817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prateek12376/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Prateek12376/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/Prateek12376/LeetCode/tree/master/1306-jump-game-iii) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Prateek12376/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prateek12376/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/Prateek12376/LeetCode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Prateek12376/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1993,6 +1997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Prateek12376/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prateek12376/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/Prateek12376/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Prateek12376/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prateek12376/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prateek12376/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Prateek12376/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
