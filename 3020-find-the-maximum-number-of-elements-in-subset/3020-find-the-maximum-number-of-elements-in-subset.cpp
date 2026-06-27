@@ -3,7 +3,6 @@ public:
     int maximumLength(vector<int>& nums) {
         unordered_map<long long,int>mpp;
         set<long long>st;
-        bool f1=false;
         for(int i=0;i<nums.size();i++){
             st.insert(1LL*nums[i]);
             mpp[1LL*nums[i]]++;
