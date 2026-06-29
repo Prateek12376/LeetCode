@@ -7,16 +7,17 @@ public:
         if(dpp[ind][buy]!=-1){
             return dpp[ind][buy];
         }
-        int profit =0;
+        int profit=INT_MIN;
+
         if(buy==1){
-            int buy = -prices[ind]+ find_max(ind+1,0,prices,dpp);
-            int nbuy= 0+ find_max(ind+1,1,prices,dpp);
-            profit= max(buy,nbuy);
+            int pick = -prices[ind]+ find_max(ind+1,0,prices,dpp);
+            int npick = 0+find_max(ind+1,1,prices,dpp);
+            profit=max(pick,npick);
         }
         else{
-            int sell = prices[ind]+ find_max(ind+1,1,prices,dpp);
-            int nsell= 0+ find_max(ind+1,0,prices,dpp);
-            profit = max(sell,nsell);
+            int pick= prices[ind]+find_max(ind+1,1,prices,dpp);
+            int n_pick = 0+ find_max(ind+1,0,prices,dpp);
+            profit=max(pick,n_pick);
         }
         return dpp[ind][buy]=profit;
     }
