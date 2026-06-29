@@ -1,14 +1,32 @@
 class Solution {
 public:
+    int find_max(int ind, int buy , vector<int>& prices,vector<vector<int>>&dpp){
+        if(ind==prices.size()){
+            return 0;
+        }
+        if(buy==-1){
+            return 0;
+        }
+        if(dpp[ind][buy]!=-1){
+            return dpp[ind][buy];
+        }
+        int profit=INT_MIN;
+        if(buy==1){
+            int pick = -prices[ind]+find_max(ind+1,0,prices,dpp);
+            int n_pick = 0+ find_max(ind+1,1,prices,dpp);
+            profit= max(pick,n_pick);
+        }
+        else{
+            int pick = prices[ind]+find_max(ind+1,-1,prices,dpp);
+            int n_pick= 0+ find_max(ind+1,0,prices,dpp);
+            profit=max(pick,n_pick);
+        }
+        return dpp[ind][buy]=profit;
+    }
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
-        int profit=0;
-        int mini=prices[0];
-        for(int i=1;i<n;i++){
-            int p = prices[i]-mini;
-            profit=max(profit,p);
-            mini=min(mini,prices[i]);
-        }
-        return profit;
+        vector<vector<int>>dpp(n,vector<int>(2,-1));
+
+        return find_max(0,1,prices,dpp);
     }
 };
