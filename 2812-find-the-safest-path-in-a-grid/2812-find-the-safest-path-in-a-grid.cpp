@@ -17,7 +17,6 @@ public:
             }
         }
         vector<pair<int,int>>dir = {{0,-1},{0,1},{-1,0},{1,0}};
-        int step=1;
         while(!q.empty()){
             int s=q.size();
             for(int i=0;i<s;i++){
@@ -29,12 +28,11 @@ public:
                     int nc=it.second+c;
 
                     if(nr<n && nr>=0 && nc<m && nc>=0 && grid[nr][nc]==0 && dist[nr][nc]==-1){
-                        dist[nr][nc]=step;
+                        dist[nr][nc]=1+ dist[r][c];
                         q.push({nr,nc});
                     }
                 }
             }
-            step++;
         }
 
         priority_queue<pair<int,pair<int,int>>>pq;
