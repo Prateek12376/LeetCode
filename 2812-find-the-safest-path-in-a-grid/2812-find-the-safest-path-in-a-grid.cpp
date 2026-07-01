@@ -41,8 +41,6 @@ public:
         pq.push({dist[0][0],{0,0}});
         
         vector<vector<int>>vis(n,vector<int>(m,0));
-
-        int ans=INT_MIN;
         while(!pq.empty()){
             auto it = pq.top();
             pq.pop();
@@ -54,7 +52,7 @@ public:
             }
             vis[r][c]=1;
             if(r==n-1 && c==m-1){
-                ans=max(ans,dis);
+                return dis;
             }
 
             for(auto it : dir){
@@ -68,7 +66,7 @@ public:
             }        
         }
 
-        return ans;
+        return -1;
         
     }
 };
