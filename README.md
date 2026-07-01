@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Prateek12376/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Prateek12376/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Prateek12376/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Prateek12376/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Prateek12376/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Prateek12376/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Prateek12376/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Prateek12376/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Prateek12376/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2429-design-a-food-rating-system](https://github.com/Prateek12376/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Prateek12376/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prateek12376/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Prateek12376/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Prateek12376/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Prateek12376/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/Prateek12376/LeetCode/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Prateek12376/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Prateek12376/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/Prateek12376/LeetCode/tree/master/3161-block-placement-queries) |
 | [3488-closest-equal-element-queries](https://github.com/Prateek12376/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3508-implement-router](https://github.com/Prateek12376/LeetCode/tree/master/3508-implement-router) |
@@ -1134,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Prateek12376/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Prateek12376/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prateek12376/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Prateek12376/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Prateek12376/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Prateek12376/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prateek12376/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1834,6 +1838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Prateek12376/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Prateek12376/LeetCode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Prateek12376/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Prateek12376/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prateek12376/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3552-grid-teleportation-traversal](https://github.com/Prateek12376/LeetCode/tree/master/3552-grid-teleportation-traversal) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Prateek12376/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -1993,6 +1998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Prateek12376/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Prateek12376/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Prateek12376/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Prateek12376/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Prateek12376/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
